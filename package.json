@@ -1,7 +1,7 @@
 {
-  "name": "template-express-node-ts",
+  "name": "technical-test-hexagonal-products",
   "version": "1.0.0",
-  "description": "Template with express, nodejs and typescript",
+  "description": "Technical test with hexagonal architecture and products use cases",
   "main": "index.js",
   "engines": {
     "node": "18.12.1"
